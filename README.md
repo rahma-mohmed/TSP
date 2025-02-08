@@ -1,1 +1,1 @@
-# Genetic-algorithm-Project
+# Travel sales man problem using generic algorithm
